@@ -1,4 +1,4 @@
-Front-end of my Todo / Trello application.
+This is the front-end of my Todo / Trello application.
 
 Backend repository: https://github.com/Floris/nodejs-todo
 
